@@ -1,4 +1,4 @@
-# Movie Reccomender
+# Computational Physics
 Originally made for Durham University's Department of Physics' course _Laboratory Skills and Electronics_ under the sub-module _Computational Physics_, as part of the coursework in 2017/2018.
 
 This repository contains a series of python assignments centered around Physics problems. The problems are designed with the aim of exposing undergraduate physics students to the world of computational physics, rendering them aware of the multitude of avenues available to them when it comes to problem solving.
