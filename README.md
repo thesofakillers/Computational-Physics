@@ -1,5 +1,5 @@
 # Computational Physics
-Originally made for Durham University's Department of Physics' course _Laboratory Skills and Electronics_ under the sub-module _Computational Physics_, as part of the coursework in 2017/2018.
+Originally made for my University's Department of Physics' course _Laboratory Skills and Electronics_ under the sub-module _Computational Physics_, as part of the coursework in 2017/2018.
 
 This repository contains a series of python assignments centered around Physics problems. The problems are designed with the aim of exposing undergraduate physics students to the world of computational physics, rendering them aware of the multitude of avenues available to them when it comes to problem solving.
 
@@ -34,7 +34,7 @@ This repository is generally structured as follows:
     ├── CP_8.pdf
     └── cp_8.py
 ```
-The CP_X.pdf files contain the assignment briefs, while the cp_X.py files are the actual solutions
+The CP_X.pdf files contain the assignment briefs, while the cp_X.py files are my actual solutions
 
 ## Pre-Requisites
 This work was originally made in [Python 2.7.X](https://www.python.org/downloads/release/python-2715/).
